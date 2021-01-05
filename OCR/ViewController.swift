@@ -14,18 +14,19 @@ class ViewController: UIViewController {
     @IBOutlet var image: UIImageView!
     @IBOutlet var act: UIActivityIndicatorView!
 
-    
-    
     var request = VNRecognizeTextRequest(completionHandler: nil)
 
     override func viewDidLoad() {
         super.viewDidLoad()
         act.isHidden = true
-        image.layer.borderColor = UIColor.systemGreen.cgColor
+        image.layer.borderColor = UIColor.white.cgColor
         image.layer.masksToBounds = true
-        //image.contentMode = .scaleToFill
         image.layer.borderWidth = 2
         image.layer.cornerRadius = 55
+    }
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(true)
+        self.overrideUserInterfaceStyle = .dark
     }
     
     @IBAction func didTapCamera(){

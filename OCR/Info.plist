@@ -22,9 +22,9 @@
 	<true/>
 	<key>NSCameraUsageDescription</key>
 	<string>Please allow access</string>
-	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>Please allow access</string>
 	<key>NSMicrophoneUsageDescription</key>
+	<string>Please allow access</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>Please allow access</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
@@ -58,15 +58,6 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
-	</array>
-	<key>UISupportedInterfaceOrientations~ipad</key>
-	<array>
-		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationPortraitUpsideDown</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 </dict>
 </plist>
