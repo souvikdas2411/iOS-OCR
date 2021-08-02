@@ -1,10 +1,12 @@
+### What is OCR?
+
 Optical character recognition or optical character reader (OCR) is the **electronic or mechanical conversion of images of typed, handwritten, or printed text into machine-encoded text**, whether from a scanned document, a photo of a document, a scene-photo (for example the text on signs and billboards in a landscape photo) or from subtitle text superimposed on an image (for example: from a television broadcast).
 
 _The Vision framework allows the users to apply computer vision algorithms to perform a variety of tasks on input images and video._
 
-You can use the [editor on GitHub](https://github.com/souvikdas2411/iOS-OCR/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### What to expect?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://media.geeksforgeeks.org/wp-content/uploads/20210610155916/Screenshot20210610at35843PM.png)
 
 ### Markdown
 
