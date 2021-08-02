@@ -6,7 +6,7 @@ _The Vision framework allows the users to apply computer vision algorithms to pe
 
 ### What to expect?
 
-![Image](https://media.geeksforgeeks.org/wp-content/uploads/20210610155916/Screenshot20210610at35843PM.png)
+![Image](https://media.geeksforgeeks.org/wp-content/uploads/20210610155916/Screenshot20210610at35843PM.png | width=100)
 
 **Output:** 
 _About
