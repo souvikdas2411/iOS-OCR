@@ -12,12 +12,7 @@ _The Vision framework allows the users to apply computer vision algorithms to pe
 _About
 Developed this app to easily extract code snippets from youtube tutorials which do not have a git link. Watching and typing becomes a tedious task at times. Anyways the repo name suggests it all. Live proj. Some commits might produce bugs._
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ### Code block
-# Import Vision framework.
 ``` import Vision
 ## Add access to camera/photos so the user can click/select images for character recognition. Make sure to add the necessary permissions in info.plist
 
