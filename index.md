@@ -14,7 +14,9 @@ Developed this app to easily extract code snippets from youtube tutorials which 
 
 ### Code block
 ```
+1. Import Vision framework.
 import vision
+2. Add access to camera/photos so the user can click/select images for character recognition. Make sure to add the necessary permissions in info.plist
 
 
 # Header 1
