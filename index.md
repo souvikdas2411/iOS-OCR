@@ -8,6 +8,10 @@ _The Vision framework allows the users to apply computer vision algorithms to pe
 
 ![Image](https://media.geeksforgeeks.org/wp-content/uploads/20210610155916/Screenshot20210610at35843PM.png)
 
+**Output:** 
+_About
+Developed this app to easily extract code snippets from youtube tutorials which do not have a git link. Watching and typing becomes a tedious task at times. Anyways the repo name suggests it all. Live proj. Some commits might produce bugs._
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
