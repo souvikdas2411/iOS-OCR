@@ -14,6 +14,8 @@ Developed this app to easily extract code snippets from youtube tutorials which 
 
 ### Code block
 ```
+_Add the vision framework_
+
 import vision
 
 @IBAction func didTapCamera(){
