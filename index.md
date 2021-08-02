@@ -13,6 +13,7 @@ _About
 Developed this app to easily extract code snippets from youtube tutorials which do not have a git link. Watching and typing becomes a tedious task at times. Anyways the repo name suggests it all. Live proj. Some commits might produce bugs._
 
 ### Code block
+```
 import vision
 
 
