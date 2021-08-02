@@ -14,7 +14,8 @@ Developed this app to easily extract code snippets from youtube tutorials which 
 
 ### Code block
 _Import Vision framework._
-```import vision
+```
+import vision
 ```
 _Add access to camera/photos so the user can click/select images for character recognition. Make sure to add the necessary permissions in info.plist_
 ```
@@ -22,7 +23,7 @@ _Add access to camera/photos so the user can click/select images for character r
        presentPhotoActionSheet()
 }
 ```
-
+```
 extension ViewController: UIImagePickerControllerDelegate, UINavigationControllerDelegate{
    
    func presentPhotoActionSheet() {
@@ -81,7 +82,9 @@ extension ViewController: UIImagePickerControllerDelegate, UINavigationControlle
        picker.dismiss(animated: true, completion: nil)
    }
 }
-
+```
+_Add function to recognize text from selected image._
+```
     private func recognizeText(image: UIImage?){
         var textString = ""
         request = VNRecognizeTextRequest(completionHandler: {(request, error) in
@@ -119,13 +122,6 @@ extension ViewController: UIImagePickerControllerDelegate, UINavigationControlle
         
     }
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/souvikdas2411/iOS-OCR/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Drop me a mail](souvikdas2411@gmail.com) and we’ll sort it out.
