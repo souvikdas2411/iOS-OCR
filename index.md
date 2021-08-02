@@ -13,8 +13,7 @@ _About
 Developed this app to easily extract code snippets from youtube tutorials which do not have a git link. Watching and typing becomes a tedious task at times. Anyways the repo name suggests it all. Live proj. Some commits might produce bugs._
 
 ### Code block
-``` import Vision
-## Add access to camera/photos so the user can click/select images for character recognition. Make sure to add the necessary permissions in info.plist
+import vision
 
 
 # Header 1
