@@ -16,8 +16,11 @@ Developed this app to easily extract code snippets from youtube tutorials which 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Code block
+# Import Vision framework.
+``` import Vision
+## Add access to camera/photos so the user can click/select images for character recognition. Make sure to add the necessary permissions in info.plist
+
 
 # Header 1
 ## Header 2
